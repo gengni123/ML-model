@@ -1,0 +1,2 @@
+# ML-model
+CNN, BP, GRU, LSTM, CNN-LSTM
